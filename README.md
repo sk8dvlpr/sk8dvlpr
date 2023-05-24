@@ -2,10 +2,10 @@
 
 My name is Muhammad Faturrahman (:indonesia:), currently working as a Senior Programmer in an LPG Gas Distribution and Filling Plant. 
 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 👨 Pronouns: he/him
+- ⚡ Fun fact: I am very interested in Astrophotography 🔭
 - 📫 How to reach me: <a href="https://www.instagram.com/sk8dvlpr/">Instagram</a> | <a href="https://twitter.com/sk8dvlpr">Twitter</a> | <a href="https://www.linkedin.com/in/mfaturrahman/">Linkedin</a>
-- 🌱 I'm currently learning to increase my Backend knowledge with the latest technology. But I also want to learn Frontend, but I am a person who thinks logically rather than creatively.
+- 👨‍🎓 I'm currently learning to increase my Backend knowledge with the latest technology. But I also want to learn Frontend, but I am a person who thinks logically rather than creatively 😄
 
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sk8dvlpr&theme=dark&hide_border=true">
